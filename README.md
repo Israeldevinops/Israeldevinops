@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-pereira-silva-51969b178/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/israell_ps)
 
-![Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=Israeldevinops&show_icons=true*theme=onedark)
+![Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=Israeldevinops&show_icons=true*theme=blue-green)
 
 ## Tecnologias que aplico na minha rotina de desenvolvimento
 <div style="display: inline_block"><br>
